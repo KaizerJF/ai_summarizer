@@ -2,7 +2,7 @@
 
 # Sumz
 
-This is a web application built using Next.js, React.js, Tailwind CSS, and TypeScript.
+This is a web application built using Next.js, React.js, and Tailwind CSS.
 
 ## Tech Stack
 
